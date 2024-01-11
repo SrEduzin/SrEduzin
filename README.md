@@ -18,7 +18,7 @@
   
 <img align="center" alt="Eduzin-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 
-<img align="center" alt="Eduzin-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img align="center" alt="Eduzin-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 
 <img align="center" alt="Eduzin-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
 
@@ -26,6 +26,22 @@
 
 <img align="center" alt="Eduzin-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 
+<img align="center" alt="Eduzin-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+          
+
+</div>
+
+##
+
+<div>
+  <p>Frameworks that I use:</p>
+  
+  
+  <img align="center" alt="Eduzin-PHP" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+
+  <img align="center" alt="Eduzin-PHP" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
+          
+          
 </div>
 
 ##
