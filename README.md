@@ -1,4 +1,5 @@
-### Hello word, I'm Edward! 👋
+### Hello world, I'm Edward! 👋
+I am a full-stack Development student looking to improve my knowledge to enter this area of work!
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SrEduzin&show_icons=true&theme=transparent">
 <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrEduzin&layout=compact&theme=transparent"
