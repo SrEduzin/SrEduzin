@@ -13,7 +13,6 @@ I am a full-stack Development student looking to improve my knowledge to enter t
   
   <img align="center" alt="Eduzin-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   
-  <img align="center" alt="Eduzin-Go" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" >
   
   <img align="center" alt="Eduzin-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   
